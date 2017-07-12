@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status = "WARN" name = "TextHandlerLog">
+    <properties>
+        <property name="warn_log">{%d{dd-MM-yyyy HH:mm:ss}} {%t} {%5p} {%c{4}} {line %L} {%m} %n</property>
+        <property name="info_log"> %m %n </property>
+    </properties>
+    <appenders>
+        <Console name = "Console" target = "SYSTEM_OUT">
+            <PatternLayout pattern="${info_log}" charset="UTF-8"/>
+        </Console>
+        <RollingFile name = "RollingFile" filename = "files/logs/log.txt" filePattern="files/logs/$${date:yyyy-MM}/textHandler-%d{MM-dd-yyyy}-%i.log.zip">
+            <PatternLayout pattern="${warn_log}" charset="UTF-8"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="100 KB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+    </appenders>
+    <loggers>
+        <root level="warn">
+            <appender-ref ref="RollingFile"/>
+        </root>
+        <root level="info">
+            <appender-ref ref="Console"/>
+        </root>
+    </loggers>
+</configuration>

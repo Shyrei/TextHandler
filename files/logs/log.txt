@@ -1,0 +1,19 @@
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {a [Aldus, a, a., also, and]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {b [but]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {c [centuries,, containing]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {d [desktop]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {e [electronic, essentially]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {f [five]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {h [has, has]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {i [Ipsum, Ipsum, It, It, in, including, into]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {l [Letraset, Lorem, Lorem, leap, like]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {m [more]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {n [not]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {o [of, of, only]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {p [PageMaker, passages,, popularised, publishing]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {r [recently, release, remaining]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {s [sheets, software, survived]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {t [the, the, the, typesetting,]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {u [unchanged.]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {v [versions]} 
+{07-07-2017 21:25:17} {main} { INFO} {shyrei.texthandler.service.LexemeSorter} {line 40} {w [was, with, with]} 
